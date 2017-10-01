@@ -1,0 +1,24 @@
+{
+     /*
+
+        Generating the password using the below command
+
+        ┌─[ahmed][zubair-HP-ProBook][±][master ✓][~/work/chef-repo/cookbooks/cm_setup]
+        └─▪ openssl passwd -1 'cmadmin@123'
+        $1$mR5rgory$oDmr9xmLBF1b8FDrPWu9r0
+
+     */
+
+     "id": "ambariadmin",
+     "password": "$1$uGHx0wDk$gvusl6Aw9yWcLC/4sqneB0",
+     "ssh_keys": [
+       "ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEAqfrxCPE1adUIy3m+QLNHfYJ+2CxMQNkzuyj6FlrmuKEOmZ1ugLURHUhwnQJ9yvSZVthmTF8foKQ4ffrIM/UU81RUHshJrpIqHyYO9tIDV4cCP4gHsdHS77nqUlLuPn4Ca7nBxqqQHyojIIGKvW5yfrjSULtSLEurdLrX9Yql8CYLO/R2Rqubmbd8KsWOoxynWIaYnROH2oU8AAAqXSBe/5L7xt18zCGluBU3cVwWIlfEwRRhZB0PfOBHVs74zFPZTWJQwW4rSfucY61zy414e6kfFMdNoMG7tSv+jqX9avtCA66Buy9KerqvUdqYjSkuTvH0jqTbw7eaEBD6reivfw== ambariadmin@localhost"
+     ],
+     "ssh_private_key": "-----BEGIN RSA PRIVATE KEY-----\nMIIEogIBAAKCAQEAqfrxCPE1adUIy3m+QLNHfYJ+2CxMQNkzuyj6FlrmuKEOmZ1u\ngLURHUhwnQJ9yvSZVthmTF8foKQ4ffrIM/UU81RUHshJrpIqHyYO9tIDV4cCP4gH\nsdHS77nqUlLuPn4Ca7nBxqqQHyojIIGKvW5yfrjSULtSLEurdLrX9Yql8CYLO/R2\nRqubmbd8KsWOoxynWIaYnROH2oU8AAAqXSBe/5L7xt18zCGluBU3cVwWIlfEwRRh\nZB0PfOBHVs74zFPZTWJQwW4rSfucY61zy414e6kfFMdNoMG7tSv+jqX9avtCA66B\nuy9KerqvUdqYjSkuTvH0jqTbw7eaEBD6reivfwIBIwKCAQBcRmWXI9sq0ruhqH05\nEN2qiKtCJq0NQrWuvnkiFBbZQXz0TiYLWvqpfxiPv4Ydt/t4SZaefMgGv4xhpWVe\nCLOaCTT6xH/FKsZorkKjPs6dOqly8hLOPrRWQFqht/2s5VHFc3fSP1WNQsKcnhgd\nsPxTa6VfBppSj3pVT3yMm7kql2w83UK6cRBtUuIm8CaeGt8P2BWiBrJ1q8nTlFaV\nNhriq5+/p3Ogpm9kLE1TTVeTiHXeV4o16d6IWtutQ1R8EAYKSQCkCtEVNmmEZtjj\nik8ZOoaNbdwwJItQAvrEGAOH+SWe2nicGYE8k0x86mICB+WA8yoDS+F2ws1D+8T8\nwxg7AoGBAN89ysz4H3mzBGYiNP9S9Kwp/+/t/g5dwpPjzH9ZTh+9FOBGkbSOlfsE\nwe1EGuHHXHI83NuMGE1WXxxZSthrtozmt4qxHhRuJYZYKTWa35nFOewT7ipLkmEU\n/4Ea4Ssp06Mv24zg0vXlzXPxFBMukuS0kZR/5qnonR49kPy6lT+HAoGBAMLsXC5i\n5EcCXcZHks7pirEe0C/94Ld7k62Wc0FqOK9rDBAsuQC3S5ojN5NQb10iyg2ZzCjt\n96F8KqPL0jPn3hjadSMy+MuZ0CtACifr14LmRsHhX5syZUyGDA3Upg8eQbfXntNP\nBO1ASa56qvk/5g6fXRKqWtXlYsvOh8j5Sl5JAoGBANjc8ORev32JVLr8qIMAIOHC\nZlbJ73uridF+NF50Ar++/lY17KDFBrlVFChQyaggwDR1o1jufgH8IeEGSLT669lV\nJ1OHfE5cXveI15Mou/R2csgTXGOZ3qdze9yAgva66tkJ6zhlXzgDzuWoXKTrah//\n3eC2wtDwmKEIm3kqR9dPAoGAadDEU7IG5LgkRxDpS8Cbvzyc5tpGygFBih55FOHk\nQfhIYI1OfLtGTFxCva9SZcJtr5yiB5cgBzTGsLB5bKJxQLEbBHrBkxj7+ji1Dlt0\n/eq4smRnGbxFnpHpSVYuQrinVSvogVbIKQWkV2cpnT/x6q5Id9jSOZnH6vsWgwr8\nfFMCgYEA1lgKHVvKVgKRGjIzM/0kgsDonBLL59lBPBj+qeGbO9Dz1IkZw0Qn2VOK\nWGDStild9sOZsEynM9FJ4cy8kPTYVPngxmIyYOdWWJmlbKgAa4jmIKnLwyUtGq1X\nspsNRNAJVr2zexPxf1Bbg0LuIRziUQO/bFbHTQQZ21E4JsQAwbA=\n-----END RSA PRIVATE KEY-----",
+     "ssh_public_key": "ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEAqfrxCPE1adUIy3m+QLNHfYJ+2CxMQNkzuyj6FlrmuKEOmZ1ugLURHUhwnQJ9yvSZVthmTF8foKQ4ffrIM/UU81RUHshJrpIqHyYO9tIDV4cCP4gHsdHS77nqUlLuPn4Ca7nBxqqQHyojIIGKvW5yfrjSULtSLEurdLrX9Yql8CYLO/R2Rqubmbd8KsWOoxynWIaYnROH2oU8AAAqXSBe/5L7xt18zCGluBU3cVwWIlfEwRRhZB0PfOBHVs74zFPZTWJQwW4rSfucY61zy414e6kfFMdNoMG7tSv+jqX9avtCA66Buy9KerqvUdqYjSkuTvH0jqTbw7eaEBD6reivfw== ambariadmin@localhost",
+     "groups": [
+       "ambariadmin"
+     ],
+     "uid": 9002,
+     "shell": "/bin/bash"
+}
